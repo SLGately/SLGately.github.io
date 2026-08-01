@@ -30,7 +30,14 @@ nav a {
   text-decoration: none;
   color: #444;
   font-family: 'Georgia', serif;
-  font-size: 0.95rem;
+  font-size: 1rem;
+  border: 2px solid #ff9800;
+  
+  padding: 8px 16px;
+  margin: 0 10px;
+  display: inline-block;
+  border-radius: 4px;
+  
   letter-spacing: 0.3px;
   transition: color 0.15s ease;
 }
