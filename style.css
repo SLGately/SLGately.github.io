@@ -6,7 +6,7 @@ body {
   padding: 0 20px;
   line-height: 1.6;
   color: #222;
-  background-color: #fdfdfb;
+  background-color: #ffb6c1;
 }
 
 /*heading*/
@@ -29,7 +29,7 @@ nav {
 nav a {
   text-decoration: none;
   color: #444;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Georgia', serif;
   font-size: 0.95rem;
   letter-spacing: 0.3px;
   transition: color 0.15s ease;
